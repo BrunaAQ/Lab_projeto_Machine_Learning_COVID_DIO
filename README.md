@@ -6,5 +6,5 @@
 
 #### Tecnologias envolvidas:
 * 💡 Python (linguagem de desenvolvimento);
-* 🖥️Jupyter Notebook (ambiente)
+* 🖥️ Jupyter Notebook (ambiente)
  
