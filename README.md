@@ -1,4 +1,4 @@
-##                                                 💻 Modelos de Machine Learning para a predição da COVID-19 no Brasil 📈📊
+##                                                 💻 Modelos de Machine Learning para predição da COVID-19 no Brasil 📈📊
 
 #### 🎯 Atividade em desenvolvimento a partir do labs desafio "Criando modelos com Python e Machine Learnig para prever a evolução da Covid-19 no Brasil":
 * Conceitos e projeto conduzidos e apresentados pelo especialista Neylson Crepalde;
@@ -6,5 +6,5 @@
 
 #### Tecnologias envolvidas:
 * 💡 Python (linguagem de desenvolvimento);
-* 🖥️ Jupyter Notebook (ambiente)
+* 🖥️ Jupyter Notebook (ambiente de programação)
  
