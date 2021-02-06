@@ -1,1 +1,1 @@
-# Lab_projeto_Machine_Learning_COVID_DIO
+# Labs_projeto_Machine_Learning_COVID_DIO
