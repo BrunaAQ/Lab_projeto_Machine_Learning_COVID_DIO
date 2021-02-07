@@ -8,3 +8,5 @@
 * 💡 Python (linguagem de desenvolvimento);
 * 🖥️ Jupyter Notebook (ambiente de programação)
  
+##### Dificuldade:
+* 🚨 Instalação do pacote para modelagem <i>fbprophet</i>
